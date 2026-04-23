@@ -134,27 +134,26 @@ This analysis provides a framework for:
 ##  Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](<img width="599" height="335" alt="executive_summary" src="https://github.com/user-attachments/assets/ff79d776-fab1-4d8c-9d1d-bd108b317027" />
-)
+![Executive Summary] <img width="599" height="335" alt="executive_summary" src="https://github.com/user-attachments/assets/0c8587f1-98b2-4050-ba58-e24ebef92a33" />
+
 
 ### Customer Behaviour
-![Customer Behaviour](<img width="599" height="334" alt="customer_behaviour" src="https://github.com/user-attachments/assets/0cb06794-793a-4ac3-bb3a-a3d179f54dae" />
-)
+![Customer Behaviour] <img width="599" height="334" alt="customer_behaviour" src="https://github.com/user-attachments/assets/0544499a-553e-4c9f-9de2-55dbaaeb934f" />
+
 
 ### Service Drivers
-![Service Drivers](images/service_d<img width="600" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/ad62152f-c23e-4cca-bd85-18e352d8edbb" />
-rivers.png)
+![Service Drivers] <img width="600" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/cf9fe886-e9cb-4a30-b84a-5080bc8a6a58" />
+
 
 ### High-Risk Customers
-![High-Risk Customers](<img width="601" height="336" alt="high_risk_customers" src="https://github.com/user-attachments/assets/835042f4-6476-441b-8f55-8453df168561" />
-)
+![High-Risk Customers] <img width="601" height="336" alt="high_risk_customers" src="https://github.com/user-attachments/assets/46e0d605-b07a-42a3-aac1-be67f0395508" />
+
 
 ---
 
 ##  Full Dashboard
 
-Download the full report: [View PDF]([dashboard.pdf](https://github.com/user-attachments/files/27021676/dashboard.pdf)
-)
+Download the full report: [View PDF] file:///C:/Users/hi/Documents/Machine%20Learning%20Projects/Github/PowerBI/dashboard.pdf
 
 
 ---
