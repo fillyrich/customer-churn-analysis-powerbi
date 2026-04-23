@@ -153,7 +153,8 @@ This analysis provides a framework for:
 
 ##  Full Dashboard
 
-Download the full report: [View PDF] file:///C:/Users/hi/Documents/Machine%20Learning%20Projects/Github/PowerBI/dashboard.pdf
+Download the full report: [View PDF] [dashboard.pdf](https://github.com/user-attachments/files/27021874/dashboard.pdf)
+
 
 
 ---
