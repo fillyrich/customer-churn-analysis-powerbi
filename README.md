@@ -12,6 +12,35 @@ Using Power BI, this dashboard transforms raw customer data into a structured, i
 
 ---
 
+##  Dashboard Preview
+
+### Executive Summary
+![Executive Summary] <img width="600" height="337" alt="executive_summary" src="https://github.com/user-attachments/assets/f69c97f7-be32-4323-a66c-7b7b041c590b" />
+
+
+
+### Customer Behaviour
+![Customer Behaviour] <img width="599" height="338" alt="customer_behaviour" src="https://github.com/user-attachments/assets/cd0e48cb-080e-4216-bfd8-2d0288c290de" />
+
+
+
+### Service Drivers
+![Service Drivers] <img width="599" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/3f637193-8d90-4f69-98bc-0d4de8331801" />
+
+
+
+### High-Risk Customers
+![High-Risk Customers] <img width="601" height="336" alt="high_risk_customers" src="https://github.com/user-attachments/assets/46e0d605-b07a-42a3-aac1-be67f0395508" />
+
+
+---
+
+##  Full Dashboard
+
+Download the full report: [View PDF] [dashboard.pdf][dashboard.pdf](https://github.com/user-attachments/files/27049257/dashboard.pdf)
+
+---
+
 ##  Objectives
 
 - Analyse churn patterns and customer behaviour  
@@ -128,38 +157,6 @@ This analysis provides a framework for:
 - Improving customer lifetime value (CLV)  
 - Optimising retention strategies  
 - Supporting data-driven decision-making  
-
----
-
-##  Dashboard Preview
-
-### Executive Summary
-![Executive Summary] <img width="600" height="337" alt="executive_summary" src="https://github.com/user-attachments/assets/f69c97f7-be32-4323-a66c-7b7b041c590b" />
-
-
-
-### Customer Behaviour
-![Customer Behaviour] <img width="599" height="338" alt="customer_behaviour" src="https://github.com/user-attachments/assets/cd0e48cb-080e-4216-bfd8-2d0288c290de" />
-
-
-
-### Service Drivers
-![Service Drivers] <img width="599" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/3f637193-8d90-4f69-98bc-0d4de8331801" />
-
-
-
-### High-Risk Customers
-![High-Risk Customers] <img width="601" height="336" alt="high_risk_customers" src="https://github.com/user-attachments/assets/46e0d605-b07a-42a3-aac1-be67f0395508" />
-
-
----
-
-##  Full Dashboard
-
-Download the full report: [View PDF] [dashboard.pdf][dashboard.pdf](https://github.com/user-attachments/files/27049257/dashboard.pdf)
-
-
-
 
 ---
 
