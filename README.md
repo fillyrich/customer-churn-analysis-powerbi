@@ -134,15 +134,18 @@ This analysis provides a framework for:
 ##  Dashboard Preview
 
 ### Executive Summary
-![Executive Summary] <img width="599" height="335" alt="executive_summary" src="https://github.com/user-attachments/assets/0c8587f1-98b2-4050-ba58-e24ebef92a33" />
+![Executive Summary] <img width="600" height="337" alt="executive_summary" src="https://github.com/user-attachments/assets/f69c97f7-be32-4323-a66c-7b7b041c590b" />
+
 
 
 ### Customer Behaviour
-![Customer Behaviour] <img width="599" height="334" alt="customer_behaviour" src="https://github.com/user-attachments/assets/0544499a-553e-4c9f-9de2-55dbaaeb934f" />
+![Customer Behaviour] <img width="599" height="338" alt="customer_behaviour" src="https://github.com/user-attachments/assets/cd0e48cb-080e-4216-bfd8-2d0288c290de" />
+
 
 
 ### Service Drivers
-![Service Drivers] <img width="600" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/cf9fe886-e9cb-4a30-b84a-5080bc8a6a58" />
+![Service Drivers] <img width="599" height="337" alt="service_drivers" src="https://github.com/user-attachments/assets/3f637193-8d90-4f69-98bc-0d4de8331801" />
+
 
 
 ### High-Risk Customers
@@ -153,7 +156,8 @@ This analysis provides a framework for:
 
 ##  Full Dashboard
 
-Download the full report: [View PDF] [dashboard.pdf](https://github.com/user-attachments/files/27021874/dashboard.pdf)
+Download the full report: [View PDF] [dashboard.pdf][dashboard.pdf](https://github.com/user-attachments/files/27049257/dashboard.pdf)
+
 
 
 
